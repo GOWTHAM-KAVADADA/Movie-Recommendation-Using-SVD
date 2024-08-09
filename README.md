@@ -1,7 +1,3 @@
-# Movie-Recommendation-Using-SVD
-
-
-
 
 # Movie Recommendation System Using SVD
 
